@@ -1,3 +1,4 @@
+//简易原子变量模板类
 #ifndef _ATOMIC_H
 #define _ATOMIC_H
 

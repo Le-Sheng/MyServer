@@ -1,3 +1,4 @@
+//阻塞队列
 #ifndef _BLOCKINGQUEUE_H
 #define _BLOCKINGQUEUE_H
 

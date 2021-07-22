@@ -16,6 +16,8 @@
 - 预计增加日志库。
 
 ## Build：
+```
 $make
-&make clean
+$make clean
+```
 
